@@ -5,7 +5,3 @@ This repository contains a project developed as part of the coursework for the *
 # Procesos y servicios
 
 Actividades y pruebas para la asignatura de Procesos y servicios de DAM
-
-## Contribuir
-
-¡Contribuciones son bienvenidas! Por favor, abre un problema o envía un pull request.
